@@ -6,7 +6,9 @@
   </picture>
 </p>
 <h2 align="center">
+  
   A Roblox script built from the ground up for your precise needs!
+  Originally made by 7GrandDad, edited by me.
   <br/>
   Rise up to the top while remaining completely untouchable.
 </h2>
