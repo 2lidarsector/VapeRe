@@ -13,7 +13,7 @@
   Rise up to the top while remaining completely untouchable.
 </h2>
 
-## Contacts
+## Contacts for 7GrandDad
 [Discord](https://discord.gg/VZEQJxMSnG)
 <br/>
 [Youtube](https://youtube.com/c/7GrandDadVape)
